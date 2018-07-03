@@ -5,3 +5,4 @@ Repository delle diapositive utilizzate per il corso
 * Pro Git book, by Scott Chacon and Ben Straub | https://git-scm.com/book/
 * How to Work with Git Branches | https://dev.to/neshaz/how-to-work-with-git-branches-30c0
 * Git Handbook | https://guides.github.com/introduction/git-handbook/
+* Creating and Hosting a Personal Site on GitHub | http://jmcglone.com/guides/github-pages/
